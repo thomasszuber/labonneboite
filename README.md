@@ -184,7 +184,7 @@ We are using [Nose](https://nose.readthedocs.io/):
 To access your local MySQL in your MySQL GUI, for example using Sequel Pro:
 
 - new connection / select "SSH" tab
-- MySQL host: `127.0.0.1:3037`
+- MySQL host: `127.0.0.1:3307`
 - Username: `root`
 - Password: leave empty
 - Database: `labonneboite`
